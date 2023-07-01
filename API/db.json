@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "leads": [
+    {
+      "firstname": "nitta",
+      "lastname": "sreenivas",
+      "graduation": "m.tech",
+      "percentage": "56",
+      "id": 1
+    },
+    {
+      "firstname": "akula",
+      "lastname": "saranya",
+      "graduation": "ssc",
+      "percentage": "89",
+      "id": 2
+    },
+    {
+      "firstname": "virat",
+      "lastname": "kohli",
+      "graduation": "m.tech",
+      "percentage": "89",
+      "id": 3
+    },
+    {
+      "firstname": "nitta",
+      "lastname": "sriram",
+      "graduation": "bba",
+      "percentage": "89",
+      "id": 4
+    },
+    {
+      "firstname": "konijerla",
+      "lastname": "hemanth",
+      "graduation": "bba",
+      "percentage": "99",
+      "id": 5
+    }
+  ],
+  "reg-user": [
+    {
+      "firstname": "nitta",
+      "lastname": "sreenivas",
+      "username": "Nitta Sreenivas",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "firstname": "virat",
+      "lastname": "kohli",
+      "username": "virat_kohli",
+      "password": "1234",
+      "id": 2
+    }
+  ]
+}
